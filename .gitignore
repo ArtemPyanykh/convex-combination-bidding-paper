@@ -1,0 +1,9 @@
+*.log
+_region_*
+*.aux
+*.fdb*
+*.fls
+*.synctex*
+.projectile
+.texpadtmp
+auto
